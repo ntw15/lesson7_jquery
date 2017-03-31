@@ -4,19 +4,24 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/30/17
 
 ### Student Name:  
-(First and Last Name)
+Nicholas Weber
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project shows us how jquery can affect the dynamic of the webpage.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://ntw15.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to duplicate files as well as use those files to implement new
+   jqeury concepts
+
+2. I also learned how to make h3 elements be able to invoke the display 
+   function when clicked
+
+3. I also learned how to make things like brownie recipies available in a list
+   using html, css, jquery, and java concepts.
